@@ -53,7 +53,7 @@ To use this template, do the following:
   with your projct name or `./` if you're in your project folder.
 
   ```bash
-  git clone https://github.com/abdulramonjemil/next-chakra-template.git <YOUR_PROJECT_NAME>
+  git clone https://github.com/abdulramon-jemil/next-chakra-template.git <YOUR_PROJECT_NAME>
   ```
 
 - Remove the `LICENSE` file if needed (or modify it as needed):
@@ -133,5 +133,5 @@ know. Your feedback and contributions are welcome!
 
 ## Other templates
 
-- [TS Package Template](https://github.com/abdulramonjemil/ts-package-template)
-- [JS Package Template](https://github.com/abdulramonjemil/js-package-template)
+- [TS Package Template](https://github.com/abdulramon-jemil/ts-package-template)
+- [JS Package Template](https://github.com/abdulramon-jemil/js-package-template)
