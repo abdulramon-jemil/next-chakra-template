@@ -87,9 +87,6 @@ To use this template, do the following:
   rm README.md
   ```
 
-- Follow the instructions in [Environment Settings](#environment-settings) above
-  and make changes based on your needs.
-
 - Install the packages:
 
   ```bash
