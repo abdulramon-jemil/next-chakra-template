@@ -56,7 +56,7 @@ To use this template, do the following:
   git clone https://github.com/abdulramon-jemil/next-chakra-template.git <YOUR_PROJECT_NAME>
   ```
 
-- Remove the `LICENSE` file if needed (or modify it as needed):
+- Update the `LICENSE` file if needed (or modify it as needed):
 
   ```bash
   rm LICENSE
